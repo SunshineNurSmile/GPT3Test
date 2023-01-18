@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div className='flex justify-center items-center'>
-      <div className='md:w-[720px] w-screen h-screen p-4'>
+      <div className='md:w-[720px] w-screen h-full p-4'>
         <div className='mb-4 text-3xl text-center'>GPT3 Davinci Model Test</div>
         <div
           className='border border-gray-400 rounded-2xl overflow-y-auto p-2 h-[80vh]'
